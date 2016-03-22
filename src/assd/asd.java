@@ -3,8 +3,7 @@ package assd;
 public class asd {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stuh
-		tghhhhh
+		// TODO Auto-generated method stub
 
 	}
 
